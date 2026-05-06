@@ -21,16 +21,16 @@ function App() {
                 <p>meet some of our amaizing stafs</p>
                 <div className="profile-container">
                     <Profile_card
-                        name={"Sara"}
-                        image="./pexels-divinetechygirl-1181354.jpg"
+                        name={"dave"}
+                        image="/pexels-divinetechygirl-1181354.jpg"
                         job="UI & UX desingner" />
                     <Profile_card
                         name={"Adam"}
-                        image="./profilecaerd2.jpg"
+                        image="/profilecaerd2.jpg"
                         job="back end developer" />
                     <Profile_card
                         name={"John doe"}
-                        image="./profill-card1.jpg"
+                        image="/profill-card1.jpg"
                         job="front end developer" />
                 </div>
             </div>
